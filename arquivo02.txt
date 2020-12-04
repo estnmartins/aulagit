@@ -1,1 +1,3 @@
 Criar arquivo02
+linha 2
+linha 3
