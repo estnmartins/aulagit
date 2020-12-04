@@ -1,3 +1,4 @@
 linha1;
 linha2;
-linhas3;
+linha3;
+Testando, colocando uma nova linha.
